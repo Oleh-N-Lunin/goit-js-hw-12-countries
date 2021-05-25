@@ -1,2 +1,2 @@
 import './sass/main.scss';
-// import './scripts/search.js'
+import './scripts/search.js'
